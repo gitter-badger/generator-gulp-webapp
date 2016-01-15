@@ -1,5 +1,7 @@
 # Web app generator [![Build Status](https://secure.travis-ci.org/yeoman/generator-gulp-webapp.svg?branch=master)](http://travis-ci.org/yeoman/generator-gulp-webapp)
 
+[![Join the chat at https://gitter.im/neonowy/generator-gulp-webapp](https://badges.gitter.im/neonowy/generator-gulp-webapp.svg)](https://gitter.im/neonowy/generator-gulp-webapp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > [Yeoman](http://yeoman.io) generator that scaffolds out a front-end web app using [gulp](http://gulpjs.com/) for the build process
 
 ![](screenshot.png)
